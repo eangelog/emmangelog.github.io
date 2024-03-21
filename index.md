@@ -1,17 +1,12 @@
 ```markdown
-Syntax highlighted code block
+# ΕΜΜ.ΑΓΓΕΛΟΓΙΑΝΝΟΠΟΥΛΟΣ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε./EMM.ANGELOGIANNOPOULOS SINGLE MEMBER P.C.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Στοιχεία Εταιρείας
+- Επωνυμία: ΕΜΜ.ΑΓΓΕΛΟΓΙΑΝΝΟΠΟΥΛΟΣ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.
+- ΑΦΜ: 802416212
+- ΔΟΥ: ΑΜΑΡΟΥΣΙΟΥ
+- ΑΡ. ΓΕΜΗ: 175963003000
+- Διεύθυνση: ΠΗΓΗΣ ΑΦΡΟΔΙΤΗΣ 13 ΜΕΛΙΣΣΙΑ ΑΤΤΙΚΗΣ
+- Τηλέφωνο: 2114100745
+- email: emm.angelog@gmail.com
 ```
